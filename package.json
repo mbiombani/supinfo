@@ -1,12 +1,12 @@
 {
   "name": "supinfo",
   "version": "1.0.0",
-  "description": "projet fin d'année supinfox",
+  "description": "projet fin d'année supinfo",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "stefen",
+  "author": "stefen Taime",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
